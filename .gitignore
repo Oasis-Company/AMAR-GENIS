@@ -154,3 +154,5 @@ uv.lock
 
 # alarm.yml outputs
 outputs/
+
+.trae/
